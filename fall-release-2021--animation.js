@@ -520,3 +520,7 @@ var gradient = new Gradient();
     gradient.initGradient("#gradient-canvas");
 var gradient2 = new Gradient();
     gradient2.initGradient("#session-day-1");
+var gradient3 = new Gradient();
+    gradient3.initGradient("#session-day-2");
+var gradient4 = new Gradient();
+    gradient4.initGradient("#session-day-3");
