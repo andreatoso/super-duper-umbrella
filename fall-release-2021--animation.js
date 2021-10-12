@@ -518,3 +518,5 @@ class Gradient {
 */
 var gradient = new Gradient();
     gradient.initGradient("#gradient-canvas");
+var gradient2 = new Gradient();
+    gradient2.initGradient("#session-day-1");
